@@ -1,0 +1,12 @@
+2
+cub(l),piramida(m)
+cub(a),cub(b),cub(g),cub(f),cub(q),cub(r),cub(s)
+cub(i),sfera(e),sfera(f),cub(t),piramida(p)
+cub(h),cub(d),cub(j),piramida(k)
+cub(n),piramida(x)
+cub(o),piramida(y)
+#
+cub(y),piramida(a)
+sfera(b),sfera(s),piramida(b)
+cub(z),sfera(c),piramida(d)
+cub(c),cub(a),piramida(f)
